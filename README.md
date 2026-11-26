@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been consolidated into [coreblow/corechat](https://github.com/coreblow/corechat) (`pkg/coredex`) and archived.
+
 # CoreDex
 
 CoreBlow contacts and identity surface.
